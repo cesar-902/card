@@ -1,0 +1,5 @@
+{
+  "name": "CheckCard Pro",
+  "description": "A high-performance MCQ flashcard application that supports CSV uploads, interactive multiple-choice questions, and AI-powered study assistance.",
+  "requestFramePermissions": []
+}
